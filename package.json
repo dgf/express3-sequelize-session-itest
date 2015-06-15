@@ -1,6 +1,6 @@
 {
   "name": "express3-sequelize-session-itest",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Express 3.x Sequelize session store integration test",
   "keywords": [
     "express",
@@ -13,7 +13,7 @@
   "author": "Danny Gräf <github@dagnu.de>",
   "repository": "dgf/express3-sequelize-session-itest.git",
   "dependencies": {
-    "express-sequelize-session": "^0.3.0",
+    "express-sequelize-session": "^0.4.0",
     "coffee-script": "^1.9.3",
     "express": "^3.20.3",
     "sequelize": "^3.2.0",
