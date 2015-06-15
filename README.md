@@ -7,11 +7,11 @@
 build and test it
 
 ```sh
-    e4store-express3-itest git:(master) ✗ npm test
+    express3-sequelize-session-itest git:(master) ✗ npm test
 ```
 
 start example server
 
 ```sh
-    e4store-express3-itest git:(master) ✗ npm start
+    express3-sequelize-session-itest git:(master) ✗ npm start
 ```
